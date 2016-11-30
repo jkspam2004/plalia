@@ -10,15 +10,8 @@ git clone https://github.com/jkspam2004/plalia.git
 cd plalia
 ```
 
-Install dependencies
+Run server (will install necessary dependencies first)
 ```
-npm install
-```
-
-Run server
-```
-node server.js
-or
 npm start
 ```
 
